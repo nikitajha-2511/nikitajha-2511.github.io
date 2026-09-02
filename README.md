@@ -2,18 +2,19 @@
 
 A sleek, responsive, and modern personal portfolio website showcasing projects, skills, certifications, and experience.
 
-## 🌟 Featured Live Applications
-- **Google Keep Notes App:** [Live App (Local)](http://localhost:5500/notes/) | [GitHub Repository](https://github.com/nikitajha-2511/to-do-list)
+## 🌐 Live Website
+- **Official Portfolio:** [https://nikitajha-2511.github.io/](https://nikitajha-2511.github.io/)
+- **Google Keep Notes Feature:** [https://nikitajha-2511.github.io/notes/](https://nikitajha-2511.github.io/notes/)
 
 ## 🛠️ Tech Stack
 - **Languages & Frameworks:** HTML5, CSS3, JavaScript (ES6+), React.js
-- **Design System:** Oceanic Slate & Electric Cyan Glassmorphism, CSS Grid, Flexbox, Dark & Light Themes
+- **Design System:** Cream & Soft Beige Light Theme + Oceanic Dark Theme, CSS Grid, Flexbox
 - **Icons & Typography:** Font Awesome 6, Google Fonts (*Plus Jakarta Sans*, *Fira Code*)
 - **Tooling:** Git, GitHub, VS Code, Chrome DevTools
 
 ## 📁 Project Structure
 ```text
-nikita_jha_portfolio/
+nikitajha-2511.github.io/
 ├── images/             # Profile photos, screenshots, and visual assets
 ├── notes/              # Google Keep Notes web app (hosted live feature)
 │   ├── index.html      # Notes app markup
@@ -21,7 +22,7 @@ nikita_jha_portfolio/
 │   └── app.js          # Real-time state management & LocalStorage persistence
 ├── index.html          # Semantic HTML5 portfolio markup
 ├── portfolio.css       # Responsive design system & theme tokens
-├── portfolio.js        # Theme toggle, typewriter, lightbox modal & interactivity
+├── portfolio.js        # Single theme toggle, mobile drawer & interactivity
 └── README.md           # Documentation
 ```
 
